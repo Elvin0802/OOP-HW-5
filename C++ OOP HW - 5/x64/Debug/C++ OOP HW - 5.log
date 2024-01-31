@@ -1,0 +1,15 @@
+﻿  String Main.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(81,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(302,16): error C2248: 'String::_text': cannot access private member declared in class 'String'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\My String.h(8,8): message : see declaration of 'String::_text'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\My String.h(3,7): message : see declaration of 'String'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(307,17): error C2248: 'String::_capacity': cannot access private member declared in class 'String'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\My String.h(7,9): message : see declaration of 'String::_capacity'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\My String.h(3,7): message : see declaration of 'String'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(307,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(312,20): error C2248: 'String::SetText': cannot access private member declared in class 'String'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(55,14): message : see declaration of 'String::SetText'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\My String.h(3,7): message : see declaration of 'String'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(372,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\Out Of String.h(407,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 5\C++ OOP HW - 5\String Main.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
